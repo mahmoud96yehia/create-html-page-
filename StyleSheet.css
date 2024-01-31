@@ -1,0 +1,32 @@
+﻿body {
+}
+header{
+    text-align:center;
+    background-color:gray;
+    color:white;
+    font-size: 20px;
+    padding:5px;
+}
+section{
+
+    display:flex;
+    justify-content: space-between;
+}
+article{
+    padding :10px;
+
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px ;
+    padding: 5px;
+}
+ul, a {
+    display: flex;
+    margin: 10px;
+    list-style-type: none;
+    background-color: black;
+    color:white;
+}
